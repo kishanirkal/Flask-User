@@ -27,7 +27,7 @@ Flask-User ships with the following implementations::
 Because the core logic is relatively small, we decided to simply
 include the core logic with the DBManager.
 
-::
+
 
                                     Views
 
